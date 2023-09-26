@@ -1,2 +1,4 @@
-Teste de aceitação
-Teste de aceitação é uma fase do processo de teste em que um teste de caixa-preta é realizado num sistema antes de sua disponibilização. Tem por função verificar o sistema em relação aos seus requisitos originais, e às necessidades atuais do usuário.
+Teste de sistema
+O teste de sistema é uma fase do processo de teste de software e de hardware em que o sistema já completamente integrado é verificado quanto a seus requisitos num ambiente de produção. Está no escopo da técnica de teste de caixa-preta, e dessa forma não requer conhecimento da estrutura interna do sistema.  
+    
+
