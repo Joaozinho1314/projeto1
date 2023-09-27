@@ -30,7 +30,7 @@ Você pode fazer com que coisas que intereçam aconteçam com um repositório to
 - Este comando atualiza o índice usando o conteúdo atual encontrado na árvore de trabalho, para preparar o conteúdo preparado para o próximo commit. Normalmente adiciona o conteúdo atual dos caminhos existentes como um todo, mas com algumas opções também pode ser usado para adicionar conteúdo com apenas parte das alterações feitas nos arquivos da árvore de trabalho aplicadas ou remover caminhos que não existem na árvore de trabalho não mais.
 
 
-                                ***git commit***
+                                 **git commit**
 
 - Crie um novo commit contendo o conteúdo atual do índice e a mensagem de log fornecida descrevendo as alterações. O novo commit é filho direto de HEAD, geralmente a ponta do branch atual, e o branch é atualizado para apontar para ele (a menos que nenhum branch esteja associado à árvore de trabalho, caso em que HEAD é "desanexado" conforme descrito em git -checkout[1] ).
 
@@ -50,4 +50,4 @@ Você pode fazer com que coisas que intereçam aconteçam com um repositório to
 - Incorpora alterações dos commits nomeados (desde o momento em que seus históricos divergiram do branch atual) no branch atual. Este comando é usado por git pull para incorporar alterações de outro repositório e pode ser usado manualmente para mesclar alterações de um branch em outro.
 
 
-![Alt text](image-1.png)
+![Alt text](./image-1.png)
